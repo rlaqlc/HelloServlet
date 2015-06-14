@@ -72,8 +72,6 @@
             </plugin>
         </plugins>
     </build>
-
-</project>
 <profiles>
 <profile>
 <!-- When built in OpenShift the 'openshift' profile will be used when 
@@ -99,3 +97,4 @@ folder. -->
 </build>
 </profile>
 </profiles>
+</project>
